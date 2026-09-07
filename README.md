@@ -13,7 +13,6 @@ B.Sc. Computer Science graduate, actively seeking opportunities as a **Software 
 **Featured Projects**
 - **AI Skill-Gap Matcher & Career Dashboard** — analyzes gaps between user skills and job requirements
 - **AI MindMap Generator** — live at [mindmap.xo.je](https://mindmap.xo.je)
-- **Library Management Web App** — built with HTML5, CSS3, MySQL
 
 ---
 
