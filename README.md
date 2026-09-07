@@ -2,7 +2,7 @@
 
 B.Sc. Computer Science graduate, actively seeking opportunities as a **Software Developer** / **Data Analyst**.
 
-- 🔭 Currently building **AI Skill-Gap Matcher & Career Dashboard**, a project analyzing skill gaps against job market data
+- 🔭 I Currently completed  building **AI Skill-Gap Matcher & Career Dashboard**, a project analyzing skill gaps against job market data
 - 💡 Interests: AI/ML, data analysis, and full-stack web development
 - 🌱 Deepening my skills in data science — Python (Pandas, Matplotlib, Seaborn), SVM, and Decision Trees
 - 🤝 Open to collaborating on AI-driven tools, data-focused projects, and web applications
